@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1031597664571",
+    "firebase_url": "https://medidispense-iot-default-rtdb.firebaseio.com",
+    "project_id": "medidispense-iot",
+    "storage_bucket": "medidispense-iot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031597664571:android:f2cff7bcbee35daa122f1e",
+        "android_client_info": {
+          "package_name": "com.example.medidispense_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031597664571-0ht32n9gk5d8m0fqa9ae8egauplh00v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxFnPSmISBT5CJN4UvR6zAjyKHXZu4P44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031597664571-0ht32n9gk5d8m0fqa9ae8egauplh00v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031597664571:android:cab5f459da9c7d6d122f1e",
+        "android_client_info": {
+          "package_name": "com.example.medidispenseiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031597664571-tltel0jgk524m9gap2mm81eiielvqq8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medidispenseiot",
+            "certificate_hash": "cd13cef5a280a7d2cd53d62992b2efff0fb58de3"
+          }
+        },
+        {
+          "client_id": "1031597664571-0ht32n9gk5d8m0fqa9ae8egauplh00v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxFnPSmISBT5CJN4UvR6zAjyKHXZu4P44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031597664571-0ht32n9gk5d8m0fqa9ae8egauplh00v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
